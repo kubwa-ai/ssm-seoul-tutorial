@@ -1,4 +1,4 @@
-## ssm-seoul-data-engineer
+# ssm-seoul-data-engineer
 ![ssm-seoul](ssm-seoul-nowave.png)
 
 # Practical Issues in Data Engineering 1주차 요약 
